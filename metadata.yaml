@@ -1,5 +1,8 @@
 _repo: Opinions_70465
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70465-h/images/cover.jpg
 creator:
   author:
     agent_name: Washburn, Claude C. (Claude Carlos)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '51100'
     url: http://www.gutenberg.org/2009/agents/51100
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70465#Opinions
 gutenberg_issued: '2023-04-05'
 identifiers:
   gutenberg: '70465'
